@@ -1,5 +1,5 @@
 # Product Landing Page
-![alt text](./homepage.png)![alt text](./sechomepage.png)
+<img src="./homepage.png" width="100" height="100" /> 
 # Product Landing Page
 
 This is a responsive product landing page that meets the following user stories:
@@ -9,7 +9,7 @@ This is a responsive product landing page that meets the following user stories:
 - As a user, I can enter my email address in a form input field and submit it to receive more information about the product.
 - As a user, I can view the landing page on different devices and screen sizes, with the layout and content adapting accordingly.
 - As a developer, I can see how HTML, CSS, and JavaScript can be used to build a modern and visually appealing web page, featuring flexbox and media queries.
-
+<img src="./sechomepage.png" width="100" height="100" />
 The landing page includes the following features:
 
 - A header section with a logo image and a responsive navigation menu.
