@@ -1,5 +1,5 @@
 # Product Landing Page
-<img src="./homepage.png" width="700" height="350" /> 
+<img src="./homepage.png" width="790" height="450" /> 
 # Product Landing Page
 
 This is a responsive product landing page that meets the following user stories:
