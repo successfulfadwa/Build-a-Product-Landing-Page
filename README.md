@@ -9,7 +9,6 @@ This is a responsive product landing page that meets the following user stories:
 - As a user, I can enter my email address in a form input field and submit it to receive more information about the product.
 - As a user, I can view the landing page on different devices and screen sizes, with the layout and content adapting accordingly.
 - As a developer, I can see how HTML, CSS, and JavaScript can be used to build a modern and visually appealing web page, featuring flexbox and media queries.
-<img src="./sechomepage.png"  width="790" height="450" />
 The landing page includes the following features:
 
 - A header section with a logo image and a responsive navigation menu.
@@ -29,6 +28,7 @@ To view the landing page, download the repository and open the `index.html` file
 - Media Queries
  
 To see a live preview of the Product Landing Page, visit #[this link](https://estrella-cutiepie.me/Build-a-Product-Landing-Page/).
+<img src="./sechomepage.png"  width="790" height="450" />
 ## Credits
 
 This project was completed as part of the freeCodeCamp Responsive Web Design Certification. The product video used in the landing page is a Creative Commons video from Neutrogena®.
