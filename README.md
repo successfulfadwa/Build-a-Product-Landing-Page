@@ -27,7 +27,7 @@ To view the landing page, download the repository and open the `index.html` file
 - Flexbox
 - Media Queries
  
-To see a live preview of the Product Landing Page, visit #[this link](https://estrella-cutiepie.me/Build-a-Product-Landing-Page/).
+To see a live preview of the Product Landing Page, visit #[this link](https://successfulfadwa.github.io/Build-a-Product-Landing-Page/).
 <img src="./sechomepage.png"  width="790" height="450" />
 ## Credits
 
